@@ -57,6 +57,7 @@ hotel-reservation-system/
 ```sql
 CREATE DATABASE hotel_reservation_db;
 USE hotel_reservation_db;
+```
 
 
 ---
