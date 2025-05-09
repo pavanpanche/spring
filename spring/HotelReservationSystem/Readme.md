@@ -88,8 +88,8 @@ USE hotel_reservation_db;
 ---
 
 ## ✍️Author
-**Pavan panche**
-- Github: ***@pavanpanche***
+**Pavan Panche**
+- Github: *@pavanpanche*
 
 ---
 
